@@ -1,0 +1,1 @@
+This repository contains phase retrieval python code.  The main example is the use of the Levenberg-Marquardt algorithm to define the least-squares optimization of a set of Zernike coefficients utilizing a model PSF and model PSF data.  
